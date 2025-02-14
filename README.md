@@ -2,3 +2,4 @@ Hello folks, this time your goal is to create a visually appealing call-to-actio
 
 - Button color: #4184e1
 - Text color: rgba(0,0,0,1) --> With variations of alpha values
+  x
